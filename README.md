@@ -1,2 +1,2 @@
-# jogo_cobrinha_javascript
+# Jogo da cobrinha com JavaScript
 Recriando o jogo da cobrinha com JavaScript
